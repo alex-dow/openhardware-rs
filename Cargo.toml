@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "win-kernel-driver",
+    "winRing0",
+    "winRing0/example",
+    "openhardware-rs"
+]
